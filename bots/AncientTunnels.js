@@ -1,7 +1,7 @@
 /**
 *	@filename	AncientTunnels.js
 *	@author		nazban
-*	@desc		  clear Ancient Tunnels
+*	@desc		clear Ancient Tunnels
 */
 
 function AncientTunnels() {
